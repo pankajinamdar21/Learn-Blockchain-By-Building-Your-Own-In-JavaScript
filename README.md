@@ -6,7 +6,7 @@ The course is called **[Learn Blockchain By Building Your Own In JavaScript](htt
 <br/><br/>
 <a href="https://www.udemy.com/build-a-blockchain-in-javascript/?couponCode=GHDISCOUNT"><img src="https://i.imgur.com/CzdyaiX.png" alt="JavaScript Blockchain Course" width="250px"/></a>
 <br/>
-
+This course improve your knwledge of blockchain by using JavaScript.
 ## Getting Started
 
 The first step in running this project is to run `npm install`.
